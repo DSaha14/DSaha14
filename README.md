@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif)
 
-<h1 align="center"><b>Hello there <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="35">, I'm Tejas Kotkar</b></h1>
+<h1 align="center"><b>Hello there <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="35">, I'm Disha Saha</b></h1>
 
 
 <br>
@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kTejss&label=Profile%20views&color=0e75b6&style=flat" alt="stp2003" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DSaha14&label=Profile%20views&color=0e75b6&style=flat" alt="DSaha14" /> </p>
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif">
 
@@ -20,19 +20,19 @@
 
 <br>
 
-![Tejas's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=kTejss&show_icons=true&theme=tokyonight&border_radius=7.6)
+![Tejas's GitHub stats](https://github-readme-stats-stp2003.vercel.app/api?username=DSaha14&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
 <br>
 
-![Tejas's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kTejss&theme=tokyonight&border_radius=7.6)
+![Tejas's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DSaha14&theme=tokyonight&border_radius=7.6)
 
 
 <br/>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kTejss&theme=onedark)](https://github.com/kTejss/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DSaha14&theme=onedark)](https://github.com/DSaha14/github-profile-trophy)
 
 <br>
 
@@ -40,7 +40,7 @@
 
 - 🌱 I’m currently learning *React JS*
 
-- 👨‍💻 All of my projects are available at [https://github.com/kTejss](https://github.com/kTejss)
+- 👨‍💻 All of my projects are available at [https://github.com/DSaha14](https://github.com/DSaha14)
 
 <br>
 
@@ -48,9 +48,8 @@
 <p align="left">
 <a href="https://codepen.io/tejas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@tejas" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tejas-kotkar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejas-kotkar/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/kotkartejas16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_2205" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kotkartejas16?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kotkartejas16" height="30" width="40" /></a>
-<a href="https://leetcode.com/kTejss/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashwat_22" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/Disha_Saha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="DSaha14" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kotkartejas16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kotkartejas16" height="30" width="40" /></a>
 </p>
 
