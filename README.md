@@ -62,34 +62,34 @@
 
 ## 💡 Leetcode Statistics
 
-![](https://leetcard.jacoblin.cool/kTejss?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Disha_Saha?ext=heatmap)
 <br>
 
 ## 💡 Gfg Statistics
-[![Tejas's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=kotkartejas16)](https://auth.geeksforgeeks.org/user/kotkartejas16)
+[![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishasamw24)](https://auth.geeksforgeeks.org/user/kotkartejas16)
 
 <br>
 
 
 # 📊 GitHub Contribution Graph:
 
-[![Anirudha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kTejss&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anirudha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DSaha14&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 # 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=kTejss&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats-stp2003.vercel.app/api/top-langs/?username=DSaha14&layout=compact&theme=tokyonight&border_radius=7.6)](https://github.com/stp2003/github-readme-stats) <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kTejss&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DSaha14&theme=tokyonight&border_radius=7.6)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kTejss&theme=tokyonight&border_radius=7.6)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DSaha14&theme=tokyonight&border_radius=7.6)
 
 <br>
 
 
 # 📊 GitHub Streak:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kTejss&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DSaha14&theme=tokyonight-duo&border_radius=9&border=8CDD78&fire=EB5454&currStreakLabel=DDCF14&currStreakNum=55DDC6&dates=1CDD15&stroke=2A63FF&sideLabels=EB9C89)](https://git.io/streak-stats)
 <br>
 
 <!-- RAINBOW LINE BOT -->
