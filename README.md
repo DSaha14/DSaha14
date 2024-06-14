@@ -64,7 +64,7 @@
 <br>
 
 ## 💡 Gfg Statistics
-[![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishasamw24)](https://auth.https://www.geeksforgeeks.org/user/dishasamw24/)
+[![Disha's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=dishasamw24)](https://www.geeksforgeeks.org/user/dishasamw24/)
 
 <br>
 
