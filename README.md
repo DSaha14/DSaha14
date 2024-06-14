@@ -36,7 +36,7 @@
 
 <br>
 
-- 🔭 I’m currently working on .Krishi Care
+- 🔭 I’m currently working on Ecommerce platform
 
 - 🌱 I’m currently learning *React JS*
 
@@ -71,7 +71,7 @@
 
 # 📊 GitHub Contribution Graph:
 
-[![Anirudha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DSaha14&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Disha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DSaha14&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 # 📊 GitHub Stats:
