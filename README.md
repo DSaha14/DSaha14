@@ -36,7 +36,7 @@
 
 <br>
 
-- 🔭 I’m currently working on Ecommerce platform
+- 🔭 I’m currently working on NeuroSense
 
 - 🌱 I’m currently learning *React JS*
 
